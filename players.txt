@@ -1,3 +1,4 @@
+Satyam new player
  Virat,Cricket,batsman   
  ROhit,Cricket,batsman 
 for phase 6
