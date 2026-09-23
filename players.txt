@@ -1,2 +1,2 @@
-Virat,Cricket,batsman
+ Virat,Football,Wicket keeper
 Rohit,Cricket,bowler
