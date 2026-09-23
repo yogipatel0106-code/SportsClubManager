@@ -1,2 +1,2 @@
-   Virat,Cricket,batsman      // modiifed 2
-Rohit,Cricket,bowler
+ Virat,Cricket,batsman   
+ ROhit,Cricket,batsman 
