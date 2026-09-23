@@ -1,3 +1,4 @@
+Satyam-cricket,all rounder
  Virat,Cricket,batsman   
  ROhit,Cricket,batsman 
 for phase 6
