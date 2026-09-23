@@ -1,3 +1,4 @@
  Virat,Cricket,batsman   
  ROhit,Cricket,batsman 
 for phase 6
+Hardik,Cricket,all rounder
