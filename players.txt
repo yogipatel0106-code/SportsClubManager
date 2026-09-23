@@ -1,0 +1,2 @@
+Virat,Cricket,batsman
+Rohit,Cricket,bowler
